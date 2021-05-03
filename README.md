@@ -4,7 +4,7 @@
 dependencies:
 (cached_network_image, carousel_pro, flutter_tindercard, full_screen_image, get, get_it, get_storage, http) 
 
-== flutter version: Flutter 2.3.0-1.0.pre.203 • channel master ==\n
-== dart version:  Dart 2.14.0 (build 2.14.0-48.0.dev) ==
+==>> flutter version: Flutter 2.3.0-1.0.pre.203 • channel master
+==>> dart version:  Dart 2.14.0 (build 2.14.0-48.0.dev) ==
 
 *this is to notify some devs if they did not have upgraded to flutter 2.0 version then this src may show some errors in your IDE so i suggest before cloning check your flutter version if not upgraded hen upgrade to 2.0 then clone nd fork the code blocks as you heart content !!
