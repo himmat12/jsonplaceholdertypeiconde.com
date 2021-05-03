@@ -8,4 +8,4 @@ dependencies:
 
 ==>> dart version:  Dart 2.14.0 (build 2.14.0-48.0.dev)
 
-*this is to notify some devs if they did not have upgraded to flutter 2.0 version then this src may show some errors in your IDE so i suggest before cloning check your flutter version if not upgraded hen upgrade to 2.0 then clone nd fork the code blocks as you heart content !!
+*this is to notify some devs if they did not have upgraded to flutter 2.0 version then this src may show some errors in code in your IDE so i suggest before cloning check your flutter version if not upgraded then upgrade to 2.0 then clone nd fork the code blocks as your heart content !!
