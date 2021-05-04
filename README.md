@@ -1,6 +1,6 @@
 # get_request_rest_api
 
- this is simple GET request from REST API in (flutter/dart) the api service provider is (https://jsonplaceholder.typicode.com/), main reason why this project exists is simple this project's src is managed in clean architecture if you are a flutter begginners looking for some example srcs to learn then this might be the thing what you are searching for required 
+ this is simple GET request from REST API in (flutter/dart) the api service provider is (https://jsonplaceholder.typicode.com/), main reason why this project exists is simple this project's src is managed in clean architecture if you are a flutter beginners looking for some example srcs to learn then this might be the thing what you are searching for required 
 dependencies:
 (cached_network_image, carousel_pro, flutter_tindercard, full_screen_image, get, get_it, get_storage, http) 
 
